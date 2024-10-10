@@ -1,0 +1,28 @@
+Waterfall   
+menrurun seeperti air terjun dan tidak mungkin menaik ke atas
+-requirements
+-design
+-development
+-testing
+-deployment
+-maintenance
+
+Kelebihan dan kekurangan waterfall
+keklebihan dari metode waterfall
+-memiliki proses yang terurut,sehingga pengerjaan dapat terjadwalkan degan baik dan mudah
+-cocook untuk sistem dengan kompleksitas rendah (predictable)
+setiap proses yang dilakukan tidak dapat saling tumpah tindih
+
+Kelebihan dan kekurangan waterfall
+kekurangan dari metode waterfall
+-waktu pengerjaan relatif lebih lama,karena harus menunggu tahap sebelumnya selesai.
+-biaya yang dibutuhkan lebih mahal karena waktu pengembangan yang dibutuhkan lebih lama.
+-model water fall ini kurang cocok untuk pengembangan proyek yang memiliki kompleksitas tinggi.
+
+Waterfall Model
+-model ini digunakakn hanya ketika persyaratan sangat terkenal,jelas dan tetap tidak berubah.
+-definisi produk stabil
+-teknologi dipahami.
+-tidak ada persyaratan yang ambigu
+-sumber daya yang cukup dengan keahlian yang diperlukn tersedia secara bebas.
+-proyek nya singkat.
