@@ -1,0 +1,15 @@
+apa itu SDLC
+SDLC (software development life cycle) adalah proses pembuatan dan pengubahan sistem serta model dan metodologi
+yang digunakan untuk mengembangkan produk. SDLC mempunyai beberapa jenis,yang terkenal ada 4 buah yaitu,
+-waterfall
+-prototype
+-agile
+-fountain
+
+Software Dvelopment & Software Testing
+karakteristik testing yang baik dalam software development life cycle model:
+-untuk setip aktivitas pengembangan, ada aktivitas pengujian yang sesuai.
+-setiap tingkat pengujian memiliki tujuan penguian yang khusus untuk tingkat tersebut.
+-analisis dan desain pengujian untuk tingkat pengujian tertentu dimulai selama aktivitas pengembangan yang sesuai.
+-para pengujiain berpatisipasi dalam diskusi unutk mendefisikan dan menyempurnakan persyaratan dan desain, serta terllibat dalam meninjau produk kerja (misaknya persyartan,desai,cerita pengguna,dll)
+segera setelah draft nya tersedia.
